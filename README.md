@@ -8,7 +8,7 @@ Log in with standard_user.Finish the purchase journey and verify the successful 
 
 ### Clone repository
 ```bash
-git clone https://github.com/FouziaMozumder/Automation-Project.git
+https://github.com/FouziaMozumder/Bit_Mascot_Q6.git
 ```
 ## Instructions
 
